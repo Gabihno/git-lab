@@ -1,4 +1,4 @@
 # git-lab
  Test cours versioning
-Bonjour jeune con ! 
+Bonjour jeune entrepreneur ! 
 sympa
